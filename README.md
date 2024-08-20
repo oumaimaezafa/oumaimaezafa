@@ -1,5 +1,5 @@
 <h1 align="center">Oumaima EZAFA</h1>
-<h3 align="center">Master's student in Intelligence artificial & distributed system </h3>
+<h3 align="center">Data Science | Machine Learning | AI master's student</h3>
 
 
 
@@ -45,7 +45,11 @@ Hi, I'm Oumaima 😉, 23 years old **Engineer** and **Programmer** 👨🏻‍�
  <br>
  <br>
  <p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oumaimaezafa&show_icons=true&locale=en&layout=compact" alt="oumaimaezafa" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oumaimaezafa&show_icons=true&locale=en" alt="oumaimaezafa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oumaimaezafa&" alt="oumaimaezafa" /></p>
   </P>
   
   <br>
