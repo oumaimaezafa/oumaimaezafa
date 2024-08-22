@@ -18,7 +18,7 @@ Hi, I'm Oumaima 😉, 23 years old **Engineer** and **Programmer** 👨🏻‍�
 **Tools :** Git, Github, VS Code
 
 
-## Current Status Quo: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+## Current Status: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 
 * 🔭 I’m currently working on **Computer vision**.
