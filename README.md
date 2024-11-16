@@ -59,11 +59,7 @@ Hi, I'm Oumaima 😉, 23 years old **Engineer** and **Programmer** 👨🏻‍�
  
 ----------------
 
-<div align=center>
 
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
 
 
 
