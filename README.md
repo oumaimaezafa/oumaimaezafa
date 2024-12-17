@@ -52,12 +52,6 @@ Hi, I'm Oumaima 😉, 23 years old **Engineer** and **Programmer** 👨🏻‍�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oumaimaezafa&" alt="oumaimaezafa" /></p>
   </P>
   
-  <br>
-  
- 
- 
- 
-----------------
 
 
 
