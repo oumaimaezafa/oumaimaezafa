@@ -1,5 +1,5 @@
 <h1 align="center">Oumaima EZAFA</h1>
-<h3 align="center">Data Science | Machine Learning | AI master's student</h3>
+<h3 align="center">Data Science | Software Enginner| Distribueted Systems & AI master's student</h3>
 
 
 
