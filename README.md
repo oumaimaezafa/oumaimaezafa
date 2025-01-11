@@ -11,7 +11,7 @@
 
 > Talk is cheap. Show me the code.
 
-Hi, I'm Oumaima 👩‍💻, a 23-year-old **Engineer** and **Programmer** from Morocco. I’m currently pursuing a master’s degree in **Distributed Systems and Artificial Intelligence** at ENSET Mohammedia. I'm passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Software Development**. I specialize in building scalable and efficient systems using modern technologies. Currently, I'm looking to collaborate on open-source projects and contribute to innovative solutions.
+Hi, I'm Oumaima 👩‍💻, a **Engineer** and **Programmer** from Morocco. I’m currently pursuing a master’s degree in **Distributed Systems and Artificial Intelligence** at ENSET Mohammedia. I'm passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Software Development**. I specialize in building scalable and efficient systems using modern technologies. Currently, I'm looking to collaborate on open-source projects and contribute to innovative solutions.
 
 </br>
 
