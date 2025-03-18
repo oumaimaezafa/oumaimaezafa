@@ -49,8 +49,8 @@ Hi, I'm Oumaima 👩‍💻, a **Engineer** and **Programmer** from Morocco. I�
 
 ## Current Status: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-* 🔭 I’m currently working on a **Full-Stack E-Commerce Application** built with **Angular** and **Spring Boot**.
-* 🌱 I’m currently learning **Advanced Java Frameworks**, and **NLP (Natural Language Processing)** in Machine Learning.
+* 🔭 I’m currently working on **my Portfolio** & **PFE** .
+* 🌱 I’m currently learning **Generative AI**.
 * 💬 Ask me about **Java, Angular, Spring Boot, Machine Learning, or NLP**.
 * 📫 How to reach me: **oumaimaezafa12@gmail.com**
 
