@@ -51,7 +51,7 @@ Hi, I'm Oumaima 👩‍💻, a **Engineer** and **Programmer** from Morocco. I�
 
 * 🔭 I’m currently working on **my Portfolio** & **PFE** .
 * 🌱 I’m currently learning **Generative AI**.
-* 💬 Ask me about **Java, Angular, Spring Boot, Machine Learning, or NLP**.
+* 💬 Ask me about **GenAI, Machine Learning, or computer vision**.
 * 📫 How to reach me: **oumaimaezafa12@gmail.com**
 
 </br>
@@ -80,15 +80,6 @@ Hi, I'm Oumaima 👩‍💻, a **Engineer** and **Programmer** from Morocco. I�
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oumaimaezafa&" alt="oumaimaezafa" />
   </p>
 </p>
-
----
-
-### Featured Projects
-
-Here are some of the projects I'm currently working on:
-
-1. **[Full-Stack E-Commerce App]()**  
-   A full-stack e-commerce application built with **Angular** (frontend) and **Spring Boot** (backend). Features include user authentication, product management, and a shopping cart.
 
 ---
 
