@@ -53,7 +53,7 @@ Hi, I'm Oumaima 👩‍💻, a **AI Engineer** and **Data Scientist** from Moroc
 
 ## Current Status: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-* 🔭 I'm currently working on **Building an Intelligent Customer Support Agent with LangGraph**
+* 🔭 I'm currently working on **Building a Q&A Chatbot**
 * 🌱 I'm currently learning **Generative AI and Agentic AI**
 * 💬 Ask me about **GenAI, Machine Learning, or Computer Vision**
 * 📫 How to reach me: **oumaimaezafa12@gmail.com**
