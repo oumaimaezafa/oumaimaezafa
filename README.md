@@ -9,7 +9,6 @@
 
 ### Hello, World! 👋
 
-> Talk is cheap. Show me the code.
 
 Hi, I'm Oumaima 👩‍💻, a **AI Engineer** and **Data Scientist** from Morocco. I recently graduated with a master's degree in **Distributed Systems and Artificial Intelligence** from ENSET Mohammedia. I'm passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **AI Development**. I specialize in building scalable and efficient systems using modern technologies. I'm actively seeking opportunities to contribute to innovative projects and collaborate on open-source initiatives.
 
